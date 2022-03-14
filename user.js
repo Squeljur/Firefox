@@ -96,6 +96,7 @@ user_pref("browser.urlbar.trimURLs", false);
 user_pref("browser.cache.memory.enable", false);
 user_pref("browser.cache.disk.enable", false);
 
+
 // gusted
 user_pref("browser.newtabpage.activity-stream.feeds.snippets", false);
 user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
@@ -126,9 +127,17 @@ user_pref("dom.popup_allowed_events", "click dblclick mousedown pointerdown");
 user_pref("beacon.enabled", false);
 user_pref("browser.helperApps.deleteTempFileOnExit", true);
 user_pref("browser.pagethumbnails.capturing_disabled", true);
-
-
-
+user_pref("pdfjs.disabled", true);
+user_pref("browser.download.alwaysOpenPanel", false);
+user_pref("browser.download.manager.addToRecentDocs", false);
+user_pref("browser.contentblocking.category", "strict");
+user_pref("network.cookie.thirdparty.sessionOnly", true);
+user_pref("network.cookie.thirdparty.nonsecureSessionOnly", true);
+user_pref("privacy.clearOnShutdown.cache", true);
+user_pref("privacy.clearOnShutdown.formdata", true);
+user_pref("media.peerconnection.ice.proxy_only_if_behind_proxy", true);
+user_pref("media.peerconnection.ice.default_address_only", true);
+user_pref("security.csp.enable", true);
 
 
 // INCOGNITO
@@ -138,6 +147,4 @@ user_pref("network.cookie.lifetimePolicy", 2);
 user_pref("browser.cache.disk_cache_ssl", false);
 user_pref("browser.cache.insecure.enable", false);
 user_pref("dom.event.clipboardevents.enabled", false);
-
-
 user_pref("browser.sessionstore.privacy_level", 2)
