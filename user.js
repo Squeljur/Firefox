@@ -142,9 +142,9 @@ user_pref("security.csp.enable", true);
 
 // INCOGNITO
 
-user_pref("browser.sessionstore.max_tabs_undo", 0);
-user_pref("network.cookie.lifetimePolicy", 2);
-user_pref("browser.cache.disk_cache_ssl", false);
-user_pref("browser.cache.insecure.enable", false);
-user_pref("dom.event.clipboardevents.enabled", false);
-user_pref("browser.sessionstore.privacy_level", 2)
+//user_pref("browser.sessionstore.max_tabs_undo", 0);
+//user_pref("network.cookie.lifetimePolicy", 2);
+//user_pref("browser.cache.disk_cache_ssl", false);
+//user_pref("browser.cache.insecure.enable", false);
+//user_pref("dom.event.clipboardevents.enabled", false);
+//user_pref("browser.sessionstore.privacy_level", 2)
