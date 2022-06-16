@@ -19,6 +19,7 @@ user_pref("media.autoplay.default", 5)
 user_pref("media.autoplay.blocking_policy", 2)
 // Disable autoplay
 
+user_pref("middlemouse.scrollbarPosition", true)
 
 // FULLSCREEN
 
@@ -147,3 +148,4 @@ user_pref("security.csp.enable", true);
 //user_pref("browser.cache.insecure.enable", false);
 //user_pref("dom.event.clipboardevents.enabled", false);
 //user_pref("browser.sessionstore.privacy_level", 2)
+//user_pref("identity.fxaccounts.enabled", false)
