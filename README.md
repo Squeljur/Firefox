@@ -1,14 +1,14 @@
 # about Squeljur/Firefox
-My customizations to Firefox browser, including a user.js and a userChrome.css 
+My customizations to Firefox browser, including only user.js ~~and a userChrome.css.~~ 
 
-The userChrome.css is basically [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox/) with a few settings disabled.
+~~The userChrome.css is basically [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox/) with a few settings disabled.~~
 
-# Installing userChrome.css
-To install, place every file from the [userChome folder](https://github.com/Squeljur/Firefox/tree/main/userChrome), into the `chrome` folder in the profile's 'root directory'.
+~~# Installing userChrome.css~~
+~~To install, place every file from the [userChome folder](https://github.com/Squeljur/Firefox/tree/main/userChrome), into the `chrome` folder in the profile's 'root directory'.~~
 
-On **Windows** is `C:\Users\<USERNAME>\AppData\Roaming\Mozilla\Firefox\Profiles\XXXXXXX.default-XXXXXX\chrome`. (You can also get there via the about:profiles)
+~~On **Windows** is `C:\Users\<USERNAME>\AppData\Roaming\Mozilla\Firefox\Profiles\XXXXXXX.default-XXXXXX\chrome`. (You can also get there via the about:profiles)~~
 
-Then finally, restart Firefox.
+~~Then finally, restart Firefox.~~
 
 # Installing user.js
 To install, place the `user.js` into the profile's 'root directory'.
