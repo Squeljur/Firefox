@@ -139,6 +139,9 @@ user_pref("media.peerconnection.ice.proxy_only_if_behind_proxy", true);
 user_pref("media.peerconnection.ice.default_address_only", true);
 user_pref("security.csp.enable", true);
 
+// css
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+
 
 // INCOGNITO
 
